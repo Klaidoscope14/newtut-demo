@@ -1,3 +1,4 @@
 # newtut-demo
 My first GIT repository
-Author - Chaitanya Saagar
+<br>
+<b>Author - Chaitanya Saagar</b>
